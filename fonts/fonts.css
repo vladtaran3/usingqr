@@ -1,0 +1,22 @@
+/*=============================== Arial =================================================*/
+
+@font-face{
+  font-family: 'Arial', sans-serif;
+  src: url('Arial-BoldMT.woff2') format('woff2'),
+  url('Arial-BoldMT.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/*=============================== Helvetica =================================================*/
+
+
+@font-face{
+  font-family: 'Helvetica', sans-serif;
+  src: url('Helvetica.woff2') format('woff2'),
+  url('Helvetica.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
