@@ -120,7 +120,7 @@ body {
 }
 
 .page-bg{
-    background-image: url('/images/main-bg.svg');
+    background-image: url('/usingqr/images/main-bg.svg');
     background-position:  bottom 0 right 210px;
     background-repeat: no-repeat;
     background-size: contain;
